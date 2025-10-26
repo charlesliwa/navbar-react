@@ -7,12 +7,12 @@ Includes a hamburger menu for mobile screens and smooth layout adjustments acros
 
 ## Features
 
-- ✅ Mobile-friendly hamburger toggle
-- ✅ Fixed top position
-- ✅ Smooth responsive breakpoints
-- ✅ Clean + modern UI
-- ✅ Simple and reusable component
-- ✅ Easily customizable styling
+- Mobile-friendly hamburger toggle
+- Fixed top position
+- Smooth responsive breakpoints
+- Clean + modern UI
+- Simple and reusable component
+- Easily customizable styling
 
 
 
