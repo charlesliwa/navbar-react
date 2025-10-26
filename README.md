@@ -18,8 +18,5 @@ Includes a hamburger menu for mobile screens and smooth layout adjustments acros
 
 ## Preview
 
-Desktop Layout:
-Navigation visible horizontally.
-
-Mobile Layout:
-Hamburger icon opens a vertical menu dropdown.
+- Desktop Layout: Navigation visible horizontally.
+- Mobile Layout: Hamburger icon opens a vertical menu dropdown.
